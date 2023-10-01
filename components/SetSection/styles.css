@@ -1,0 +1,37 @@
+.set-section {
+  text-align: center;
+}
+
+h2.set-section__title {
+  margin-bottom: 2rem;
+}
+
+h3.letter-links__group-title {
+  margin-bottom: 1rem;
+}
+
+.letter-links__main-container {
+  margin-bottom: 3rem;
+}
+
+.letter-links__flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.letter-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #fff;
+  width: 20%;
+  padding: 1rem 0;
+  border-radius: 0.5rem;
+  border: 0.125rem solid #fff;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
