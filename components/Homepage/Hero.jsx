@@ -9,6 +9,7 @@ const Hero = () => {
         width={300}
         height={200}
         className="hero-section__img"
+        priority
       />
 
       <h1>Welcome to My Phonics</h1>
