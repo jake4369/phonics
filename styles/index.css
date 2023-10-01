@@ -2,16 +2,13 @@
 
 @import "./../components/Layout/styles.css";
 @import "./../components/Homepage/styles.css";
+@import "./../components/SetSection/styles.css";
+@import "./../components/SpeedSoundPage/styles.css";
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
-
-img {
-  display: block;
-  max-width: 100%;
 }
 
 html {
@@ -20,6 +17,28 @@ html {
 
 body {
   font-family: "Inter", Arial, Helvetica, sans-serif;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+a,
+input,
+button,
+* {
+  outline: none !important;
+  -webkit-tap-highlight-color: transparent; /* Remove tap highlight on iOS */
+  -webkit-touch-callout: none; /* Disable callout on iOS */
+  -webkit-user-select: none; /* Disable selection on iOS */
+  -moz-user-select: none; /* Disable selection on Firefox */
+  -ms-user-select: none; /* Disable selection on IE/Edge */
+  user-select: none;
 }
 
 /* ==========
@@ -33,4 +52,32 @@ body {
 section {
   padding: 0 6.4%;
   margin-bottom: 4rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border-radius: 0.5rem;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  padding: 2rem;
+  margin: 0 auto 4rem;
+  border: 0.25rem solid;
+  padding: 2rem;
+  width: 87.2%;
+}
+
+.action-btn {
+  display: block;
+  font-size: 1.25rem;
+  padding: 1rem 3rem;
+  border: 0.125rem solid;
+  text-transform: uppercase;
+  letter-spacing: 0.0625rem;
+  font-weight: 700;
+  color: #fff;
+  border-radius: 0.5rem;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  margin: 0 auto;
 }
