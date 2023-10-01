@@ -1,3 +1,7 @@
+/* ==========
+ HERO SECTION
+ ========== */
+
 .hero-section {
   text-align: center;
 }
@@ -5,4 +9,43 @@
 .hero-section__img {
   width: 100%;
   height: auto;
+}
+
+/* LEARNING SET SECTION */
+.learning-set-section {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  text-align: center;
+}
+
+.learning-set-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  letter-spacing: 1px;
+  font-weight: 700;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 2rem;
+  border: 0.25rem solid #fff;
+  border-radius: 0.5rem;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.learning-set-link:nth-of-type(even) {
+  flex-direction: row-reverse;
+}
+
+.learning-set-link span {
+  display: block;
+  margin: 0 2rem;
+}
+
+.learning-set-link img {
+  width: 70px;
+  height: auto;
+  min-height: 110px;
+  max-height: 110px;
 }
