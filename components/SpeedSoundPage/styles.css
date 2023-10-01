@@ -1,0 +1,187 @@
+/* ==========
+ SPEED SOUND PAGE
+ ========== */
+.speed-sound__letter-page {
+  text-align: center;
+}
+
+.speed-sound__letter-page h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.speed-sound__letter-page p {
+  font-size: 1.125rem;
+  line-height: 1.7;
+}
+
+/* ==========
+ SPEED SOUND HERO
+ ========== */
+.speed-sound__letter-page__hero h1 {
+  font-size: 6rem;
+}
+
+.speed-sound__letter-page__hero p {
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+/* ==========
+ SPEED SOUND STORY
+ ========== */
+.speed-sound__letter-page__story img {
+  width: 60%;
+  height: auto;
+  margin: 0 auto 1rem;
+}
+
+/* ==========
+ SOUNDCARD
+ ========== */
+.soundcard {
+  font-size: 5rem;
+  font-weight: 700;
+}
+
+.soundcard__letter {
+  margin-bottom: 1rem;
+}
+
+/* ==========
+ TRACING
+ ========== */
+.canvas {
+  position: relative;
+}
+
+.canvas-img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100px;
+  height: auto;
+  max-width: 70%;
+  z-index: -1;
+}
+
+.touch-scroll-lock {
+  touch-action: none;
+}
+
+.clear-canvas__btn {
+  display: block;
+  font-size: 1.25rem;
+  padding: 1rem 3rem;
+  border: 0.125rem solid;
+  text-transform: uppercase;
+  letter-spacing: 0.0625rem;
+  font-weight: 700;
+  color: white;
+  border-radius: 0.5rem;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  margin: 0 auto;
+}
+
+/* ==========
+ SOUNDING SECTION
+ ========== */
+.sounding-section h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.sounding-section p {
+  font-size: 1.125rem;
+  margin-bottom: 2rem;
+}
+
+.sounding-section__images {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2.5rem;
+}
+
+.sounding-section__images img {
+  width: 50%;
+  height: auto;
+}
+
+/* ==========
+ FLASHCARD SECTION
+ ========== */
+.flashcard {
+  width: 100%;
+}
+
+p.flashcard-text {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: 0.0625rem;
+  margin-bottom: 1.5rem;
+}
+
+.flashcard-btns {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.flashcard-btn {
+  width: 45%;
+  text-align: center;
+  padding: 0.5rem 0;
+  font-size: 1rem;
+  margin: 0;
+}
+
+/* ==========
+ WRITING PRACTICE SECTION
+ ========== */
+.practice-writing-section p {
+  margin-bottom: 1rem;
+}
+
+.practice-writing-section__letters {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.practice-writing-section__letter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+  border: 0.125rem solid #fff;
+  color: #fff;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* ==========
+ SING ALONG SECTION
+ ========== */
+.song-img {
+  width: 50%;
+  height: auto;
+  margin-bottom: 2rem;
+}
+
+.play-song-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 4rem;
+  height: 4rem;
+  padding: 0;
+  margin-top: 1rem;
+  border-radius: 50%;
+}
