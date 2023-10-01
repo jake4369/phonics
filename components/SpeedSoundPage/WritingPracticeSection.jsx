@@ -14,8 +14,8 @@ const WritingPracticeSection = ({ arr, color }) => {
     <section className="practice-writing-section">
       <h2>Let's Practice Writing</h2>
       <p>
-        Grab a pen or pencil and let's practice writing our letter. Call out the
-        sound below, and ask your children to write them down:{" "}
+        Grab a pen or pencil and let's practice writing our letters. Call out
+        the sounds below, and ask your children to write them down:{" "}
       </p>
       <div className="practice-writing-section__letters">{letters}</div>
     </section>
