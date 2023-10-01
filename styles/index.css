@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
 
 @import "./../components/Layout/styles.css";
+@import "./../components/Homepage/styles.css";
 
 * {
   margin: 0;
@@ -19,4 +20,17 @@ html {
 
 body {
   font-family: "Inter", Arial, Helvetica, sans-serif;
+}
+
+/* ==========
+ TYPOGRAPHY
+ ========== */
+
+/* ==========
+ LAYOUT
+ ========== */
+
+section {
+  padding: 0 6.4%;
+  margin-bottom: 4rem;
 }
