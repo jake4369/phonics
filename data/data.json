@@ -23,6 +23,7 @@
         "Shirt",
         "Ship"
       ],
+      "revisionLetters": ["s"],
       "songImg": "/assets/images/songs/s.png",
       "song": "/assets/songs/s.mp3",
       "songLyrics": [
@@ -30,8 +31,7 @@
         "The snake is in the grass.",
         "/sss/! /sss/!",
         "The snake is in the grass."
-      ],
-      "revisionLetters": ["s"]
+      ]
     },
     "a": {
       "pronunciation": "/a/ as in 'apple'",
@@ -56,6 +56,7 @@
         "Alarm",
         "Angry"
       ],
+      "revisionLetters": ["s", "a"],
       "songImg": "/assets/images/songs/a.png",
       "song": "/assets/songs/a.mp3",
       "songLyrics": [
@@ -63,8 +64,7 @@
         "/a/ - /a/! Ants on my arm.",
         "/a/ - /a/! Ants on my arm.",
         "They're causing me alarm."
-      ],
-      "revisionLetters": ["s", "a"]
+      ]
     },
     "t": {
       "pronunciation": "/t/ as in 'tip'",
@@ -89,6 +89,7 @@
         "Table",
         "Tambourine"
       ],
+      "revisionLetters": ["s", "a", "t"],
       "songImg": "/assets/images/songs/t.png",
       "song": "/assets/songs/t.mp3",
       "songLyrics": [
@@ -97,8 +98,7 @@
         "/t/ - /t/ - /t/...",
         "...when I watch the tennis game,",
         "my head goes back and forth."
-      ],
-      "revisionLetters": ["s", "a", "t"]
+      ]
     },
     "p": {
       "pronunciation": "/p/ as in 'pet'",
@@ -123,6 +123,7 @@
         "Pillow",
         "Potato"
       ],
+      "revisionLetters": ["s", "a", "t", "p"],
       "songImg": "/assets/images/songs/p.png",
       "song": "/assets/songs/p.mp3",
       "songLyrics": [
@@ -131,8 +132,7 @@
         "/p/ - /p/ - /p/.",
         "Puff out the candles on the pink pig cake.",
         "Puff! Puff! Puff!"
-      ],
-      "revisionLetters": ["s", "a", "t", "p"]
+      ]
     },
     "i": {
       "pronunciation": "/i/ as in 'it'",
@@ -155,7 +155,15 @@
         "Invitation",
         "Ill"
       ],
-      "revisionLetters": ["i"]
+      "revisionLetters": ["i"],
+      "songImg": "/assets/images/songs/i.png",
+      "song": "/assets/songs/i.mp3",
+      "songLyrics": [
+        "Inky the mouse is my pet",
+        "She spilled the ink and got wet.",
+        "The ink it spread all over the desk.",
+        "/i/ - /i/ - /i/ - /i/ - Inky's wet!"
+      ]
     },
     "n": {
       "pronunciation": "/n/ as in 'nut'",
@@ -180,7 +188,15 @@
         "Nail",
         "Nugget"
       ],
-      "revisionLetters": ["i", "n"]
+      "revisionLetters": ["i", "n"],
+      "songImg": "/assets/images/songs/n.png",
+      "song": "/assets/songs/n.mp3",
+      "songLyrics": [
+        "Hear the aeroplane, /nnn/!",
+        "Hear the aeroplane, /nnn/!",
+        "Hear the aeroplane, /nnn/!...",
+        "...making lots of noise."
+      ]
     },
     "m": {
       "pronunciation": "/m/ as in 'mop'",
@@ -205,7 +221,15 @@
         "Magic",
         "Muffin"
       ],
-      "revisionLetters": ["i", "n", "m"]
+      "revisionLetters": ["i", "n", "m"],
+      "songImg": "/assets/images/songs/m.png",
+      "song": "/assets/songs/m.mp3",
+      "songLyrics": [
+        "The mum and the dad make many meals",
+        "/mmm/!",
+        "/mmm/!...",
+        "The mum and the dad make many meals for their hungry children"
+      ]
     },
     "d": {
       "pronunciation": "/d/ as in 'doll'",
@@ -230,7 +254,16 @@
         "Donut",
         "Dinosaur"
       ],
-      "revisionLetters": ["i", "n", "m", "d"]
+      "revisionLetters": ["i", "n", "m", "d"],
+      "songImg": "/assets/images/songs/d.png",
+      "song": "/assets/songs/d.mp3",
+      "songLyrics": [
+        "See me play on my drum.",
+        "Playing drums is lots of fun,",
+        "with a /d/ - /d/ - /d/ - /d/",
+        "/d/ - /d/ - /d/ - /d/.",
+        "See me play upon my drum!"
+      ]
     }
   }
 ]
