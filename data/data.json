@@ -264,6 +264,145 @@
         "/d/ - /d/ - /d/ - /d/.",
         "See me play upon my drum!"
       ]
+    },
+    "g": {
+      "pronunciation": "/g/ as in 'gas'",
+      "color": "#CDB4DB",
+      "story": "Gary the happy goat loved to eat yummy green grass in a big field. He jumped and played, making funny goofy sounds /g - g - g -g/. When the sun went down, Gary smiled and said, 'Goodnight!' He was glad to have such a great day.",
+      "storyImgUrl": "/assets/images/story/g.png",
+      "soundingImages": [
+        "/assets/images/sounding/dog.png",
+        "/assets/images/sounding/grapes.png",
+        "/assets/images/sounding/duck.png",
+        "/assets/images/sounding/glasses.png"
+      ],
+      "flashcardWords": [
+        "Game",
+        "Goat",
+        "Grass",
+        "Grapes",
+        "Glue",
+        "Garden",
+        "Glasses",
+        "Gate",
+        "Goose",
+        "Gravy"
+      ],
+      "revisionLetters": ["g"],
+      "songImg": "/assets/images/songs/g.png",
+      "song": "/assets/songs/g.mp3",
+      "songLyrics": [
+        "The water gurgles down the drain.",
+        "The water gurgles down the drain.",
+        "The water gurgles down the drain,",
+        "with a /g/ - /g/ - /g/ - /g/ - /g/."
+      ]
+    },
+    "o": {
+      "pronunciation": "/o/ as in 'dog'",
+      "color": "#FFC8DD",
+      "story": "Olly, the orange octopus, lived in the deep ocean. With his eight wiggly arms, he collected shiny seashells, explored oyster beds, and enjoyed friendly hugs with ocean pals. On one sunny day, Olly and fish friends had an ocean adventure, discovering treasures among colorful corals and on an old shipwreck. Olly was the happiest, most adventurous orange octopus in the sea!",
+      "storyImgUrl": "/assets/images/story/o.png",
+      "soundingImages": [
+        "/assets/images/sounding/frog.png",
+        "/assets/images/sounding/orange.png",
+        "/assets/images/sounding/drum.png",
+        "/assets/images/sounding/swan.png"
+      ],
+      "flashcardWords": [
+        "Dog",
+        "Frog",
+        "On",
+        "Off",
+        "Got",
+        "Hot",
+        "Pot",
+        "Sock",
+        "Rock",
+        "Box"
+      ],
+      "revisionLetters": ["g", "o"],
+      "songImg": "/assets/images/songs/o.png",
+      "song": "/assets/songs/o.mp3",
+      "songLyrics": [
+        "Now it's dark,",
+        "the light go on.",
+        "/o/ - /o/ - /o/ - /o/ - /o/.",
+        "Time for bed,",
+        "the lights go off!",
+        "/o/ - /o/ - /o/ - /o/ - /o/."
+      ]
+    },
+    "c": {
+      "pronunciation": "/c/ as in 'cot'",
+      "color": "#FFAFCC",
+      "story": "Coco the cute cat loved to curl up in a cozy cot. One day, she wore a colorful cap and chased a bouncy ball. Coco caught it with her soft paws and purred contentedly, making a sound like /c/ - /c/ - /c/ - /c/. She then climbed up a tall tree, carefully balancing on the branch. Coco was the cleverest cat in the neighborhood!",
+      "storyImgUrl": "/assets/images/story/c.png",
+      "soundingImages": [
+        "/assets/images/sounding/candle.png",
+        "/assets/images/sounding/pig.png",
+        "/assets/images/sounding/castle.png",
+        "/assets/images/sounding/carrot.png"
+      ],
+      "flashcardWords": [
+        "Cat",
+        "Cup",
+        "Car",
+        "Cake",
+        "Coat",
+        "Cloud",
+        "Castle",
+        "Comb",
+        "Candle",
+        "Cold"
+      ],
+      "revisionLetters": ["g", "o", "c"],
+      "songImg": "/assets/images/songs/c.png",
+      "song": "/assets/songs/c.mp3",
+      "songLyrics": [
+        "We are clicking castanets,",
+        "/c/ - /c/ -/c/.",
+        "We are clicking castanets,",
+        "We are clicking castanets...",
+        "we are clicking castanets,",
+        "/c/ - /c/ -/c/."
+      ]
+    },
+    "k": {
+      "pronunciation": "/k/ as in 'king'",
+      "color": "#BDE0FE",
+      "story": "Once upon a time, there was a clever kid named Kevin. He ran to the park with his colorful kite, a special kit, and a crown fit for a king. With a joyful skip, he sent his kite soaring high, feeling like a kite king. The gentle wind carried it far, and Kevin's laughter filled the sky as his kite danced in the sunlight.",
+      "storyImgUrl": "/assets/images/story/k.png",
+      "soundingImages": [
+        "/assets/images/sounding/kite.png",
+        "/assets/images/sounding/orange.png",
+        "/assets/images/sounding/cookie.png",
+        "/assets/images/sounding/rocket.png"
+      ],
+      "flashcardWords": [
+        "Kid",
+        "Kit",
+        "Kite",
+        "King",
+        "Cookie",
+        "Kitten",
+        "Lake",
+        "Snake",
+        "Rocket",
+        "Kick"
+      ],
+      "revisionLetters": ["g", "o", "c", "k"],
+      "songImg": "/assets/images/songs/k.png",
+      "song": "/assets/songs/k.mp3",
+      "songLyrics": [
+        "Kites are flying in the sky,",
+        "/k/ - /k/ - /k/.",
+        "Kites are flying in the sky,",
+        "/k/ - /k/ - /k/.",
+        "Kites are flying in the sky, flying in the sky...",
+        "...kites are flying in the sky,",
+        "/k/ - /k/ - /k/."
+      ]
     }
   }
 ]
