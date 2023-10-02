@@ -361,10 +361,12 @@
       "song": "/assets/songs/c.mp3",
       "songLyrics": [
         "We are clicking castanets,",
-        "/c/ - /c/ -/c/.",
+        "/c/ - /c/ - /c/.",
         "We are clicking castanets,",
+        "/c/ - /c/ - /c/.",
         "We are clicking castanets...",
-        "we are clicking castanets,",
+        "...clicking castanets.",
+        "We are clicking castanets,",
         "/c/ - /c/ -/c/."
       ]
     },
