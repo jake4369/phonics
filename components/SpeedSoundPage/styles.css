@@ -60,9 +60,7 @@
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  width: 100px;
   height: auto;
-  max-width: 70%;
   z-index: -1;
 }
 
@@ -112,6 +110,10 @@
 /* ==========
  FLASHCARD SECTION
  ========== */
+.flashcard-container {
+  width: 100%;
+}
+
 .flashcard {
   width: 100%;
 }
@@ -169,6 +171,10 @@ p.flashcard-text {
 /* ==========
  SING ALONG SECTION
  ========== */
+.song-container {
+  width: 100%;
+}
+
 .song-img {
   width: 50%;
   height: auto;

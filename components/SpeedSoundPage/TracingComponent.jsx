@@ -8,6 +8,15 @@ const TracingComponent = ({ letter, width, height, color }) => {
   const canvasRef = useRef(null);
   const [isDrawing, setIsDrawing] = useState(false);
 
+  const letterImgWidth =
+    letter === "ff" || letter === "ll"
+      ? "150px"
+      : letter === "ss"
+      ? "200px"
+      : "100px";
+  const letterImgMaxWidth =
+    letter === "ff" || letter === "ll" || letter === "ss" ? "90%" : "70%";
+
   useEffect(() => {
     const canvas = canvasRef.current;
     const context = canvas.getContext("2d");
@@ -66,11 +75,23 @@ const TracingComponent = ({ letter, width, height, color }) => {
         className="touch-scroll-lock"
       ></canvas>
       <Image
-        src={`/assets/images/tracing/${letter}.png`}
+        src={
+          letter === "ss"
+            ? `/assets/images/tracing/ss.png`
+            : letter === "ff"
+            ? `/assets/images/tracing/ff.png`
+            : letter === "ll"
+            ? `/assets/images/tracing/ll.png`
+            : `/assets/images/tracing/${letter}.png`
+        }
         alt=""
         width={100}
         height={100}
         className="canvas-img"
+        style={{
+          width: letterImgWidth,
+          maxWidth: letterImgMaxWidth,
+        }}
       />
       <button
         onClick={clearCanvas}
