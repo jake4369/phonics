@@ -11,18 +11,7 @@
         "/assets/images/sounding/spider.png",
         "/assets/images/sounding/drum.png"
       ],
-      "flashcardWords": [
-        "Sun",
-        "Sand",
-        "Sea",
-        "Snake",
-        "Snow",
-        "Shell",
-        "Sock",
-        "Spoon",
-        "Shirt",
-        "Ship"
-      ],
+      "flashcardWords": ["sun", "sand", "sock", "sat", "sap"],
       "revisionLetters": ["s"],
       "songImg": "/assets/images/songs/s.png",
       "song": "/assets/songs/s.mp3",
@@ -44,18 +33,7 @@
         "/assets/images/sounding/ant.png",
         "/assets/images/sounding/apple.png"
       ],
-      "flashcardWords": [
-        "Apple",
-        "Ant",
-        "Arrow",
-        "Ambulance",
-        "Animals",
-        "Alphabet",
-        "Astronaut",
-        "Avocado",
-        "Alarm",
-        "Angry"
-      ],
+      "flashcardWords": ["ant", "at", "as"],
       "revisionLetters": ["s", "a"],
       "songImg": "/assets/images/songs/a.png",
       "song": "/assets/songs/a.mp3",
@@ -77,18 +55,7 @@
         "/assets/images/sounding/tent.png",
         "/assets/images/sounding/tiger.png"
       ],
-      "flashcardWords": [
-        "Tiger",
-        "Turtle",
-        "Train",
-        "Tree",
-        "Teddy",
-        "Toothbrush",
-        "Tomato",
-        "Teacher",
-        "Table",
-        "Tambourine"
-      ],
+      "flashcardWords": ["tap"],
       "revisionLetters": ["s", "a", "t"],
       "songImg": "/assets/images/songs/t.png",
       "song": "/assets/songs/t.mp3",
@@ -111,18 +78,7 @@
         "/assets/images/sounding/pencil.png",
         "/assets/images/sounding/tiger.png"
       ],
-      "flashcardWords": [
-        "Penguin",
-        "Pumpkin",
-        "Pencil",
-        "Pizza",
-        "Puppy",
-        "Pig",
-        "Princess",
-        "Playground",
-        "Pillow",
-        "Potato"
-      ],
+      "flashcardWords": ["pen", "pat"],
       "revisionLetters": ["s", "a", "t", "p"],
       "songImg": "/assets/images/songs/p.png",
       "song": "/assets/songs/p.mp3",
@@ -145,16 +101,7 @@
         "/assets/images/sounding/kid.png",
         "/assets/images/sounding/pig.png"
       ],
-      "flashcardWords": [
-        "Igloo",
-        "Insect",
-        "Iguana",
-        "Ink",
-        "Itch",
-        "Instument",
-        "Invitation",
-        "Ill"
-      ],
+      "flashcardWords": ["it", "is", "sit", "pit", "tip"],
       "revisionLetters": ["i"],
       "songImg": "/assets/images/songs/i.png",
       "song": "/assets/songs/i.mp3",
@@ -176,18 +123,7 @@
         "/assets/images/sounding/net.png",
         "/assets/images/sounding/nest.png"
       ],
-      "flashcardWords": [
-        "Nest",
-        "Noodle",
-        "Nose",
-        "Nut",
-        "Nurse",
-        "Necklace",
-        "Numbers",
-        "Night",
-        "Nail",
-        "Nugget"
-      ],
+      "flashcardWords": ["an", "in", "nip", "pan", "nap"],
       "revisionLetters": ["i", "n"],
       "songImg": "/assets/images/songs/n.png",
       "song": "/assets/songs/n.mp3",
@@ -209,18 +145,7 @@
         "/assets/images/sounding/parrot.png",
         "/assets/images/sounding/mouse.png"
       ],
-      "flashcardWords": [
-        "Moon",
-        "Monkey",
-        "Mouse",
-        "Marshmallow",
-        "Mermaid",
-        "Music",
-        "Milk",
-        "Movie",
-        "Magic",
-        "Muffin"
-      ],
+      "flashcardWords": ["am", "man", "mat", "map", "Tim"],
       "revisionLetters": ["i", "n", "m"],
       "songImg": "/assets/images/songs/m.png",
       "song": "/assets/songs/m.mp3",
@@ -242,18 +167,7 @@
         "/assets/images/sounding/duck.png",
         "/assets/images/sounding/dinosaur.png"
       ],
-      "flashcardWords": [
-        "Dog",
-        "Doll",
-        "Door",
-        "Drum",
-        "Daddy",
-        "Doctor",
-        "Dream",
-        "Dolphin",
-        "Donut",
-        "Dinosaur"
-      ],
+      "flashcardWords": ["dad", "and", "sad", "dim", "Sid"],
       "revisionLetters": ["i", "n", "m", "d"],
       "songImg": "/assets/images/songs/d.png",
       "song": "/assets/songs/d.mp3",
@@ -276,18 +190,7 @@
         "/assets/images/sounding/duck.png",
         "/assets/images/sounding/glasses.png"
       ],
-      "flashcardWords": [
-        "Game",
-        "Goat",
-        "Grass",
-        "Grapes",
-        "Glue",
-        "Garden",
-        "Glasses",
-        "Gate",
-        "Goose",
-        "Gravy"
-      ],
+      "flashcardWords": ["tag", "gag", "sag", "gas", "pig"],
       "revisionLetters": ["g"],
       "songImg": "/assets/images/songs/g.png",
       "song": "/assets/songs/g.mp3",
@@ -309,18 +212,7 @@
         "/assets/images/sounding/drum.png",
         "/assets/images/sounding/swan.png"
       ],
-      "flashcardWords": [
-        "Dog",
-        "Frog",
-        "On",
-        "Off",
-        "Got",
-        "Hot",
-        "Pot",
-        "Sock",
-        "Rock",
-        "Box"
-      ],
+      "flashcardWords": ["got", "on", "not", "top", "dog"],
       "revisionLetters": ["g", "o"],
       "songImg": "/assets/images/songs/o.png",
       "song": "/assets/songs/o.mp3",
@@ -344,18 +236,7 @@
         "/assets/images/sounding/castle.png",
         "/assets/images/sounding/carrot.png"
       ],
-      "flashcardWords": [
-        "Cat",
-        "Cup",
-        "Car",
-        "Cake",
-        "Coat",
-        "Cloud",
-        "Castle",
-        "Comb",
-        "Candle",
-        "Cold"
-      ],
+      "flashcardWords": ["can", "cot", "cop", "cap", "cod"],
       "revisionLetters": ["g", "o", "c"],
       "songImg": "/assets/images/songs/c.png",
       "song": "/assets/songs/c.mp3",
@@ -381,21 +262,193 @@
         "/assets/images/sounding/cookie.png",
         "/assets/images/sounding/rocket.png"
       ],
-      "flashcardWords": [
-        "Kid",
-        "Kit",
-        "Kite",
-        "King",
-        "Cookie",
-        "Kitten",
-        "Lake",
-        "Snake",
-        "Rocket",
-        "Kick"
-      ],
+      "flashcardWords": ["kid", "kit", "Kim", "Ken"],
       "revisionLetters": ["g", "o", "c", "k"],
       "songImg": "/assets/images/songs/k.png",
       "song": "/assets/songs/k.mp3",
+      "songLyrics": [
+        "Kites are flying in the sky,",
+        "/k/ - /k/ - /k/.",
+        "Kites are flying in the sky,",
+        "/k/ - /k/ - /k/.",
+        "Kites are flying in the sky, flying in the sky...",
+        "...kites are flying in the sky,",
+        "/k/ - /k/ - /k/."
+      ]
+    },
+    "e": {
+      "pronunciation": "/e/ as in 'bed'",
+      "color": "#CDB4DB",
+      "story": "Jess the chef had a pet, a green gecko named Greg. One day, Jess found a net in her shed. She used it to catch bugs for Greg. Greg's favorite snack was a wet, juicy grape. Jess and Greg had fun together, making a perfect pair.",
+      "storyImgUrl": "/assets/images/story/e.png",
+      "soundingImages": [
+        "/assets/images/sounding/shell.png",
+        "/assets/images/sounding/bread.png",
+        "/assets/images/sounding/igloo.png",
+        "/assets/images/sounding/dress.png"
+      ],
+      "flashcardWords": ["get", "pet", "ten", "net", "pen"],
+      "revisionLetters": ["e"],
+      "songImg": "/assets/images/songs/e.png",
+      "song": "/assets/songs/e.mp3",
+      "songLyrics": [
+        "Eggs in the pan, /e/ - /e/ - /e/",
+        "Eggs in the pan, /e/ - /e/ - /e/",
+        "Eggs in the pan, /e/ - /e/ - /e/",
+        "Crack the egg like this... /e/!"
+      ]
+    },
+    "u": {
+      "pronunciation": "/u/ as in 'plug'",
+      "color": "#FFC8DD",
+      "story": "On the big pink bus, I run to find a snug seat. I hug my fluffy teddy bear tightly, holding my shiny cup. The bus hums as it chugs along the bumpy road on the way to school. Up hills and down valleys, we go on a thrilling adventure. What a fun ride!",
+      "storyImgUrl": "/assets/images/story/u.png",
+      "soundingImages": [
+        "/assets/images/sounding/bus.png",
+        "/assets/images/sounding/orange.png",
+        "/assets/images/sounding/cup.png",
+        "/assets/images/sounding/umbrella.png"
+      ],
+      "flashcardWords": ["up", "mum", "run", "mug", "cup"],
+      "revisionLetters": ["e", "u"],
+      "songImg": "/assets/images/songs/u.png",
+      "song": "/assets/songs/u.mp3",
+      "songLyrics": [
+        "/u/ - /u/ up go umbrellas.",
+        "/u/ - /u/ up go umbrellas.",
+        "/u/ - /u/ up go umbrellas...",
+        "...when it starts to ran!"
+      ]
+    },
+    "r": {
+      "pronunciation": "/r/ as in 'run'",
+      "color": "#FFAFCC",
+      "story": "Rusty the rabbit raced rapidly in a thrilling contest. With a rocket-like hop, he zoomed past a rat, gobbled a crunchy carrot, and reached the finish line, victorious. Cheers erupted as Rusty proved he was the quickest runner around.",
+      "storyImgUrl": "/assets/images/story/r.png",
+      "soundingImages": [
+        "/assets/images/sounding/rocket.png",
+        "/assets/images/sounding/rabbit.png",
+        "/assets/images/sounding/castle.png",
+        "/assets/images/sounding/ring.png"
+      ],
+      "flashcardWords": ["rip", "ram", "rat", "rocket", "carrot"],
+      "revisionLetters": ["e", "u", "r"],
+      "songImg": "/assets/images/songs/r.png",
+      "song": "/assets/songs/r.mp3",
+      "songLyrics": [
+        "See my puppy rip the rag.",
+        "/rrr/! /rrr/!",
+        "See my puppy rip the rag",
+        "when he pulls so hard."
+      ]
+    },
+    "h": {
+      "pronunciation": "/h/ as in 'hat'",
+      "color": "#BDE0FE",
+      "story": "Harry the horse had a fancy hat. He wore it while trotting, and all his friends said, 'How handsome!' His hat made him the happiest horse in the hot, sunny field. At night, he snuggled in his cozy hut, still wearing his hat, feeling happy and huggable.",
+      "storyImgUrl": "/assets/images/story/k.png",
+      "soundingImages": [
+        "/assets/images/sounding/kite.png",
+        "/assets/images/sounding/orange.png",
+        "/assets/images/sounding/cookie.png",
+        "/assets/images/sounding/rocket.png"
+      ],
+      "flashcardWords": ["had", "hat", "him", "his", "hot", "hut"],
+      "revisionLetters": ["e", "u", "r", "h"],
+      "songImg": "/assets/images/songs/k.png",
+      "song": "/assets/songs/k.mp3",
+      "songLyrics": [
+        "Kites are flying in the sky,",
+        "/k/ - /k/ - /k/.",
+        "Kites are flying in the sky,",
+        "/k/ - /k/ - /k/.",
+        "Kites are flying in the sky, flying in the sky...",
+        "...kites are flying in the sky,",
+        "/k/ - /k/ - /k/."
+      ]
+    },
+    "b": {
+      "pronunciation": "/b/ as in 'ball'",
+      "color": "#CDB4DB",
+      "story": "Once upon a time, Benny the boy bounced a big blue ball in his backyard. He giggled as the ball bounced high and low, making a bouncy sound. Benny's bunny, Bobby, hopped beside him, and they both had a blast bouncing the ball together.",
+      "storyImgUrl": "/assets/images/story/b.png",
+      "soundingImages": [
+        "/assets/images/sounding/ball.png",
+        "/assets/images/sounding/bed.png",
+        "/assets/images/sounding/drum.png",
+        "/assets/images/sounding/bubbles.png"
+      ],
+      "flashcardWords": ["but", "big", "back", "bed", "bus"],
+      "revisionLetters": ["b"],
+      "songImg": "/assets/images/songs/b.png",
+      "song": "/assets/songs/b.mp3",
+      "songLyrics": [
+        "Bring your bat and bring you ball.",
+        "/b/! - /b/!",
+        "Bring your bat and bring your ball...",
+        "...to the park to play!"
+      ]
+    },
+    "ff": {
+      "pronunciation": "/f/ as in 'if', /ff/ as in 'off'",
+      "color": "#FFC8DD",
+      "story": "Felix the friendly fox played in a field of fluffy flowers. He found five funny fluffy feathers and fluttered them like fairy wings. Felix's furry friend, Fiona, joined in the fun, and together, they had a fantastic, feathery adventure, full of laughter and joy in the sunny forest.",
+      "storyImgUrl": "/assets/images/story/f.png",
+      "soundingImages": [
+        "/assets/images/sounding/fish.png",
+        "/assets/images/sounding/cup.png",
+        "/assets/images/sounding/fairy.png",
+        "/assets/images/sounding/fox.png"
+      ],
+      "flashcardWords": ["of", "if", "off", "fit", "fog", "puff"],
+      "revisionLetters": ["b", "f, ff"],
+      "songImg": "/assets/images/songs/f.png",
+      "song": "/assets/songs/f.mp3",
+      "songLyrics": [
+        "My friends and I went to the beach",
+        "with my floating fish.",
+        "It got a hole...",
+        "...the air came out.",
+        "/ffff/!"
+      ]
+    },
+    "ll": {
+      "pronunciation": "/l/ as in 'let', /ll/ as in 'bell'",
+      "color": "#FFAFCC",
+      "story": "Leila had a lovely, little doll named Lilly. They would laugh and play all day, sharing secrets and cuddles. One sunny day, they decided to have a picnic under a tall, leafy tree. With their colorful blankets and a basket full of delicious treats, they enjoyed a delightful day together, creating memories that would last a lifetime.",
+      "storyImgUrl": "/assets/images/story/l.png",
+      "soundingImages": [
+        "/assets/images/sounding/shell.png",
+        "/assets/images/sounding/rabbit.png",
+        "/assets/images/sounding/bell.png",
+        "/assets/images/sounding/leaf.png"
+      ],
+      "flashcardWords": ["let", "leg", "lot", "bell", "doll"],
+      "revisionLetters": ["b", "f, ff", "l, ll"],
+      "songImg": "/assets/images/songs/l.png",
+      "song": "/assets/songs/l.mp3",
+      "songLyrics": [
+        "We lick our lollipops.",
+        "We lick our lollipops.",
+        "/l/ - /l/ - /l/ - /l/!",
+        "We lick our lollipops."
+      ]
+    },
+    "ss": {
+      "pronunciation": "/ss/ as in 'mess'",
+      "color": "#BDE0FE",
+      "story": "Silly Sam, a spirited little boy, loved to splash in puddles, spilling paint and making a mess. His patient parents said, 'Sam, let's make some progress. Less mess, more clean!' Sam decided to use a brush, not his hands, and with less mess, he painted a beautiful picture, making his parents smile with success.",
+      "storyImgUrl": "/assets/images/story/ss.png",
+      "soundingImages": [
+        "/assets/images/sounding/grass.png",
+        "/assets/images/sounding/dress.png",
+        "/assets/images/sounding/cookie.png",
+        "/assets/images/sounding/glass.png"
+      ],
+      "flashcardWords": ["less", "hiss", "mass", "mess", "boss"],
+      "revisionLetters": ["b", "f, ff", "l, ll", "ss"],
+      "songImg": "/assets/images/songs/ss.png",
+      "song": "/assets/songs/ss.mp3",
       "songLyrics": [
         "Kites are flying in the sky,",
         "/k/ - /k/ - /k/.",
