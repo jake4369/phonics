@@ -48,12 +48,14 @@ const page = () => {
         color={letterData.color}
       />
 
-      <SingAlongSection
-        img={letterData.songImg}
-        song={letterData.song}
-        arr={letterData.songLyrics}
-        color={letterData.color}
-      />
+      {letter !== "ss" && (
+        <SingAlongSection
+          img={letterData.songImg}
+          song={letterData.song}
+          arr={letterData.songLyrics}
+          color={letterData.color}
+        />
+      )}
     </div>
   );
 };
