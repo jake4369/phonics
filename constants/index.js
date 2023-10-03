@@ -17,7 +17,7 @@ export const setOneLetters = [
   },
   {
     group: "Group 5",
-    letters: ["b", "f, ff", "l, ll", "ss"],
+    letters: ["b", "ff", "ll", "ss"],
   },
   {
     group: "Special Friends",
