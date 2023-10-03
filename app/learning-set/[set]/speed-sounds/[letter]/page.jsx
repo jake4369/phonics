@@ -48,6 +48,7 @@ const page = () => {
         color={letterData.color}
       />
 
+      {/* REMOVE IF SS SONG IS FOUND */}
       {letter !== "ss" && (
         <SingAlongSection
           img={letterData.songImg}
