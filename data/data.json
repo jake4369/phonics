@@ -458,6 +458,166 @@
         "...kites are flying in the sky,",
         "/k/ - /k/ - /k/."
       ]
+    },
+    "sh": {
+      "pronunciation": "/sh/ as in 'ship'",
+      "color": "#CDB4DB",
+      "story": "Sunny the friendly sheep lived in a shiny, green meadow. One day, a mischievous squirrel named Shelly came to share some shiny, sweet acorns. They played hide and seek among the shady trees, laughing and sharing their snacks. When night time came, they gently whispered to cheeping birds, /sh/ - /sh/ - /sh/, so that Sunny the sheep and Shelly the squirrel could get some sleep.",
+      "storyImgUrl": "/assets/images/story/sh.png",
+      "soundingImages": [
+        "/assets/images/sounding/shell.png",
+        "/assets/images/sounding/goat.png",
+        "/assets/images/sounding/ship.png",
+        "/assets/images/sounding/shop.png"
+      ],
+      "flashcardWords": ["shop", "shut", "shed", "fish", "shall"],
+      "revisionLetters": ["sh"],
+      "songImg": "/assets/images/songs/sh.png",
+      "song": "/assets/songs/sh.mp3",
+      "songLyrics": [
+        "Hush! Hush! Hush!",
+        "Don't make a sound.",
+        "Be as quiet as you can be.",
+        ".The baby's asleep and I'm tired out.",
+        "Sh! /sh/ - /sh/ - /sh/ - /sh/!"
+      ]
+    },
+    "th": {
+      "pronunciation": "/th/ as in 'thin', /th/ as in 'thisty'",
+      "color": "#FFC8DD",
+      "story": "Timothy the thoughtful little boy found a tiny moth trapped in a thorny bush. With his finger and thumb, he gently plucked it free. Then, he shared a warm, cozy blanket with the moth to keep it warm. 'That's how we help friends,' Timothy said with a smile, showing kindness and thoughtfulness to all creatures around.",
+      "storyImgUrl": "/assets/images/story/th.png",
+      "soundingImages": [
+        "/assets/images/sounding/tooth.png",
+        "/assets/images/sounding/bath.png",
+        "/assets/images/sounding/ant.png",
+        "/assets/images/sounding/feather.png"
+      ],
+      "flashcardWords": ["thin", "moth", "this", "that", "thirsty", "thing"],
+      "revisionLetters": ["sh", "th"],
+      "songImg": "/assets/images/songs/th.png",
+      "song": "/assets/songs/th.mp3",
+      "songLyrics": [
+        "Di you ever hear a rude clown",
+        "make this sound and that sound?",
+        "Did you ever hear a rude clown",
+        "say /th/ - /th/, /th/ - /th/?"
+      ]
+    },
+    "ch": {
+      "pronunciation": "/t/ as in 'tip'",
+      "color": "#FFAFCC",
+      "story": "Some children go to a tennis match. Each time the racket hits the ball, it makes a /t/ noise. The game is very exciting. The people in the crowd turn their heads from side to side, watching the ball. The children go home and play tennis too, /t, t, t, t/.",
+      "storyImgUrl": "/assets/images/story/t.png",
+      "soundingImages": [
+        "/assets/images/sounding/tennis.png",
+        "/assets/images/sounding/sun.png",
+        "/assets/images/sounding/tent.png",
+        "/assets/images/sounding/tiger.png"
+      ],
+      "flashcardWords": ["tap"],
+      "revisionLetters": ["s", "a", "t"],
+      "songImg": "/assets/images/songs/t.png",
+      "song": "/assets/songs/t.mp3",
+      "songLyrics": [
+        "When I watch the tennis game,",
+        "/t/ - /t/ - /t/,",
+        "/t/ - /t/ - /t/...",
+        "...when I watch the tennis game,",
+        "my head goes back and forth."
+      ]
+    },
+    "qu": {
+      "pronunciation": "/p/ as in 'pet'",
+      "color": "#BDE0FE",
+      "story": "A boy is having a birthday party. He opens his presents and plays some party games. Then he puffs out the candles on his cake. They are trick candles and keep relighting. Everyone tries to puff out the candles, going, /p, p, p, p/.",
+      "storyImgUrl": "/assets/images/story/p.png",
+      "soundingImages": [
+        "/assets/images/sounding/pie.png",
+        "/assets/images/sounding/parrot.png",
+        "/assets/images/sounding/pencil.png",
+        "/assets/images/sounding/tiger.png"
+      ],
+      "flashcardWords": ["pen", "pat"],
+      "revisionLetters": ["s", "a", "t", "p"],
+      "songImg": "/assets/images/songs/p.png",
+      "song": "/assets/songs/p.mp3",
+      "songLyrics": [
+        "Puff out the candles on the pink pig cake.",
+        "/p/ - /p/ - /p/,",
+        "/p/ - /p/ - /p/.",
+        "Puff out the candles on the pink pig cake.",
+        "Puff! Puff! Puff!"
+      ]
+    },
+    "ng": {
+      "pronunciation": "/p/ as in 'pet'",
+      "color": "#A2D2FF",
+      "story": "A boy is having a birthday party. He opens his presents and plays some party games. Then he puffs out the candles on his cake. They are trick candles and keep relighting. Everyone tries to puff out the candles, going, /p, p, p, p/.",
+      "storyImgUrl": "/assets/images/story/p.png",
+      "soundingImages": [
+        "/assets/images/sounding/pie.png",
+        "/assets/images/sounding/parrot.png",
+        "/assets/images/sounding/pencil.png",
+        "/assets/images/sounding/tiger.png"
+      ],
+      "flashcardWords": ["pen", "pat"],
+      "revisionLetters": ["s", "a", "t", "p"],
+      "songImg": "/assets/images/songs/p.png",
+      "song": "/assets/songs/p.mp3",
+      "songLyrics": [
+        "Puff out the candles on the pink pig cake.",
+        "/p/ - /p/ - /p/,",
+        "/p/ - /p/ - /p/.",
+        "Puff out the candles on the pink pig cake.",
+        "Puff! Puff! Puff!"
+      ]
+    },
+    "nk": {
+      "pronunciation": "/p/ as in 'pet'",
+      "color": "#CDB4DB",
+      "story": "A boy is having a birthday party. He opens his presents and plays some party games. Then he puffs out the candles on his cake. They are trick candles and keep relighting. Everyone tries to puff out the candles, going, /p, p, p, p/.",
+      "storyImgUrl": "/assets/images/story/p.png",
+      "soundingImages": [
+        "/assets/images/sounding/pie.png",
+        "/assets/images/sounding/parrot.png",
+        "/assets/images/sounding/pencil.png",
+        "/assets/images/sounding/tiger.png"
+      ],
+      "flashcardWords": ["pen", "pat"],
+      "revisionLetters": ["s", "a", "t", "p"],
+      "songImg": "/assets/images/songs/p.png",
+      "song": "/assets/songs/p.mp3",
+      "songLyrics": [
+        "Puff out the candles on the pink pig cake.",
+        "/p/ - /p/ - /p/,",
+        "/p/ - /p/ - /p/.",
+        "Puff out the candles on the pink pig cake.",
+        "Puff! Puff! Puff!"
+      ]
+    },
+    "ck": {
+      "pronunciation": "/p/ as in 'pet'",
+      "color": "#FFC8DD",
+      "story": "A boy is having a birthday party. He opens his presents and plays some party games. Then he puffs out the candles on his cake. They are trick candles and keep relighting. Everyone tries to puff out the candles, going, /p, p, p, p/.",
+      "storyImgUrl": "/assets/images/story/p.png",
+      "soundingImages": [
+        "/assets/images/sounding/pie.png",
+        "/assets/images/sounding/parrot.png",
+        "/assets/images/sounding/pencil.png",
+        "/assets/images/sounding/tiger.png"
+      ],
+      "flashcardWords": ["pen", "pat"],
+      "revisionLetters": ["s", "a", "t", "p"],
+      "songImg": "/assets/images/songs/p.png",
+      "song": "/assets/songs/p.mp3",
+      "songLyrics": [
+        "Puff out the candles on the pink pig cake.",
+        "/p/ - /p/ - /p/,",
+        "/p/ - /p/ - /p/.",
+        "Puff out the candles on the pink pig cake.",
+        "Puff! Puff! Puff!"
+      ]
     }
   }
 ]
