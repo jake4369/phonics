@@ -1,6 +1,7 @@
 const Soundcard = ({ letter, color, sound, fontWeight }) => {
-  let audio =
-    sound !== "" ? new Audio(sound) : new Audio(`/assets/sounds/${letter}.mp3`);
+  let audio = sound
+    ? new Audio(sound)
+    : new Audio(`/assets/sounds/${letter}.mp3`);
 
   const playAudio = () => {
     audio.play();
