@@ -505,26 +505,26 @@
       ]
     },
     "ch": {
-      "pronunciation": "/t/ as in 'tip'",
+      "pronunciation": "/ch/ as in 'chat'",
       "color": "#FFAFCC",
-      "story": "Some children go to a tennis match. Each time the racket hits the ball, it makes a /t/ noise. The game is very exciting. The people in the crowd turn their heads from side to side, watching the ball. The children go home and play tennis too, /t, t, t, t/.",
-      "storyImgUrl": "/assets/images/story/t.png",
+      "story": "Chester the cheerful chipmunk loved to chase colorful butterflies in the meadow. With his chubby cheeks and cheerful chirps, he charmed everyone. One day, he decided to share some chocolate chips with his friends. They sat in a circle, chatted, and munched on chocolatey treats, /ch/ - /ch/ - /ch/ - /ch/, and creating cherished memories under the bright, blue sky.",
+      "storyImgUrl": "/assets/images/story/ch.png",
       "soundingImages": [
-        "/assets/images/sounding/tennis.png",
-        "/assets/images/sounding/sun.png",
-        "/assets/images/sounding/tent.png",
-        "/assets/images/sounding/tiger.png"
+        "/assets/images/sounding/cheese.png",
+        "/assets/images/sounding/frog.png",
+        "/assets/images/sounding/watch.png",
+        "/assets/images/sounding/chicken.png"
       ],
-      "flashcardWords": ["tap"],
-      "revisionLetters": ["s", "a", "t"],
-      "songImg": "/assets/images/songs/t.png",
-      "song": "/assets/songs/t.mp3",
+      "flashcardWords": ["chip", "chat", "rich", "fetch", "watch"],
+      "revisionLetters": ["sh", "th", "ch"],
+      "songImg": "/assets/images/songs/ch.png",
+      "song": "/assets/songs/ch.mp3",
       "songLyrics": [
-        "When I watch the tennis game,",
-        "/t/ - /t/ - /t/,",
-        "/t/ - /t/ - /t/...",
-        "...when I watch the tennis game,",
-        "my head goes back and forth."
+        "Trains are chugging up the hill.",
+        "/ch/ - /ch/ - /ch/,",
+        "/ch/ - /ch/ - /ch/.",
+        "Trains are chugging up the hill.",
+        "/ch/ - /ch/ - /ch/."
       ]
     },
     "qu": {
