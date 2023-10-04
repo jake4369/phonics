@@ -1,11 +1,11 @@
 export const setOneLetters = [
   {
     group: "Group 1",
-    letters: ["s", "a", "t", "p"],
+    letters: ["m", "a", "s", "d"],
   },
   {
     group: "Group 2",
-    letters: ["i", "n", "m", "d"],
+    letters: ["t", "i", "n", "p"],
   },
   {
     group: "Group 3",
@@ -13,15 +13,19 @@ export const setOneLetters = [
   },
   {
     group: "Group 4",
-    letters: ["e", "u", "r", "h"],
+    letters: ["u", "b", "ff", "e"],
   },
   {
     group: "Group 5",
-    letters: ["b", "ff", "ll", "ss"],
+    letters: ["ll", "h", "r", "j"],
+  },
+  {
+    group: "Group 6",
+    letters: ["v", "y", "w", "z", "x"],
   },
   {
     group: "Special Friends",
-    letters: ["sh", "th", "ch", "qu", "ng", "nk", "ck"],
+    letters: ["sh", "th", "ch", "qu", "ng", "nk"],
   },
 ];
 
