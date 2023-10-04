@@ -27,7 +27,24 @@ const page = () => {
 
       <Story img={letterData.storyImgUrl} story={letterData.story} />
 
-      <Soundcard letter={letter} color={letterData.color} />
+      {letter === "th" ? (
+        <>
+          <Soundcard
+            letter={letter}
+            color={letterData.color}
+            sound="/assets/sounds/this.mp3"
+            fontWeight={400}
+          />
+
+          <Soundcard
+            letter={letter}
+            color={letterData.color}
+            sound="/assets/sounds/three.mp3"
+          />
+        </>
+      ) : (
+        <Soundcard letter={letter} color={letterData.color} />
+      )}
 
       <TracingComponent
         letter={letter}
