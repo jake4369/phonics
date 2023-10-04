@@ -1,5 +1,6 @@
-const Soundcard = ({ letter, color }) => {
-  let audio = new Audio(`/assets/sounds/${letter}.mp3`);
+const Soundcard = ({ letter, color, sound, fontWeight }) => {
+  let audio =
+    sound !== "" ? new Audio(sound) : new Audio(`/assets/sounds/${letter}.mp3`);
 
   const playAudio = () => {
     audio.play();
@@ -7,7 +8,7 @@ const Soundcard = ({ letter, color }) => {
 
   return (
     <div className="soundcard card" style={{ borderColor: color }}>
-      <span className="soundcard__letter" style={{ color }}>
+      <span className="soundcard__letter" style={{ color, fontWeight }}>
         {letter}
       </span>
 
