@@ -4,18 +4,14 @@ import React, { useState, useEffect, useRef } from "react";
 
 import Image from "next/image";
 
+import { multiLetters } from "@constants";
+
 const TracingComponent = ({ letter, width, height, color }) => {
   const canvasRef = useRef(null);
   const [isDrawing, setIsDrawing] = useState(false);
 
-  const letterImgWidth =
-    letter === "ff" || letter === "ll"
-      ? "150px"
-      : letter === "ss"
-      ? "200px"
-      : "100px";
-  const letterImgMaxWidth =
-    letter === "ff" || letter === "ll" || letter === "ss" ? "90%" : "70%";
+  const letterImgWidth = multiLetters.includes(letter) ? "70%" : "40%";
+  const letterImgMaxWidth = multiLetters.includes(letter) ? "200px" : "100px";
 
   useEffect(() => {
     const canvas = canvasRef.current;
