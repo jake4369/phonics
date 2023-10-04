@@ -10,7 +10,7 @@ const Soundcard = ({ letter, color, sound, fontWeight }) => {
   return (
     <div className="soundcard card" style={{ borderColor: color }}>
       <span className="soundcard__letter" style={{ color, fontWeight }}>
-        {letter}
+        {letter === "ll" ? "l, ll" : letter === "ff" ? "f, ff" : letter}
       </span>
 
       <button
