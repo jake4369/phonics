@@ -2,7 +2,7 @@
   {
     "s": {
       "pronunciation": "/s/ as in 'sit'",
-      "color": "#CDB4DB",
+      "color": "#FFAFCC",
       "story": "It is a sunny day. A boy takes his dog for a walk. The boy throws a stick and the dog runs after it. The dog sniffs around in the grass and starts barking. A large, spotty snake is sitting up and hissing, /sssssss/. The boy grabs the dog and the snake slowly slithers away.",
       "storyImgUrl": "/assets/images/story/s.png",
       "soundingImages": [
@@ -12,7 +12,7 @@
         "/assets/images/sounding/drum.png"
       ],
       "flashcardWords": ["sun", "sand", "sock", "sat", "sap"],
-      "revisionLetters": ["s"],
+      "revisionLetters": ["m", "a", "s"],
       "songImg": "/assets/images/songs/s.png",
       "song": "/assets/songs/s.mp3",
       "songLyrics": [
@@ -34,7 +34,7 @@
         "/assets/images/sounding/apple.png"
       ],
       "flashcardWords": ["ant", "at", "as"],
-      "revisionLetters": ["s", "a"],
+      "revisionLetters": ["m", "a"],
       "songImg": "/assets/images/songs/a.png",
       "song": "/assets/songs/a.mp3",
       "songLyrics": [
@@ -46,7 +46,7 @@
     },
     "t": {
       "pronunciation": "/t/ as in 'tip'",
-      "color": "#FFAFCC",
+      "color": "#CDB4DB",
       "story": "Some children go to a tennis match. Each time the racket hits the ball, it makes a /t/ noise. The game is very exciting. The people in the crowd turn their heads from side to side, watching the ball. The children go home and play tennis too, /t, t, t, t/.",
       "storyImgUrl": "/assets/images/story/t.png",
       "soundingImages": [
@@ -56,7 +56,7 @@
         "/assets/images/sounding/tiger.png"
       ],
       "flashcardWords": ["tap"],
-      "revisionLetters": ["s", "a", "t"],
+      "revisionLetters": ["m", "a", "s", "d", "t"],
       "songImg": "/assets/images/songs/t.png",
       "song": "/assets/songs/t.mp3",
       "songLyrics": [
@@ -79,7 +79,7 @@
         "/assets/images/sounding/tiger.png"
       ],
       "flashcardWords": ["pen", "pat"],
-      "revisionLetters": ["s", "a", "t", "p"],
+      "revisionLetters": ["i", "n", "p"],
       "songImg": "/assets/images/songs/p.png",
       "song": "/assets/songs/p.mp3",
       "songLyrics": [
@@ -92,7 +92,7 @@
     },
     "i": {
       "pronunciation": "/i/ as in 'it'",
-      "color": "#CDB4DB",
+      "color": "#FFC8DD",
       "story": "Inky the curious iguana invited his insect friends, Iris the ant and Ivy the bee, to a picnic. They all enjoyed vanilla ice cream that was as cold as an /i, i/ igloo. Inky grinned, knowing that their shared love for things like ice cream and insects brought lots of fun to their day!",
       "storyImgUrl": "/assets/images/story/i.png",
       "soundingImages": [
@@ -114,7 +114,7 @@
     },
     "n": {
       "pronunciation": "/n/ as in 'nut'",
-      "color": "#FFC8DD",
+      "color": "#FFAFCC",
       "story": "Nina, the bunny, had a neighbor, Ned, the woodpecker. Every morning, his 'knock, knock, knock echoed through their woodland home, blending with the peaceful sounds of nature. It greeted everyone, including Nancy the squirrel and Benny the bear, making the forest come alive with its unique rhythm.",
       "storyImgUrl": "/assets/images/story/n.png",
       "soundingImages": [
@@ -136,7 +136,7 @@
     },
     "m": {
       "pronunciation": "/m/ as in 'mop'",
-      "color": "#FFAFCC",
+      "color": "#CDB4DB",
       "story": "Mia, the little mouse, lived near a lush garden. Mia loved cheese. '/m, m, m, m/, This is delicious,' she said as she munched. Benny the butterfly and Lenny the lizard couldn't resist, joining Mia's cheese feast. Together, they shared stories and laughter, adding to the warmth of the garden's serene ambiance.",
       "storyImgUrl": "/assets/images/story/m.png",
       "soundingImages": [
@@ -146,7 +146,7 @@
         "/assets/images/sounding/mouse.png"
       ],
       "flashcardWords": ["am", "man", "mat", "map", "Tim"],
-      "revisionLetters": ["i", "n", "m"],
+      "revisionLetters": ["m"],
       "songImg": "/assets/images/songs/m.png",
       "song": "/assets/songs/m.mp3",
       "songLyrics": [
@@ -168,7 +168,7 @@
         "/assets/images/sounding/dinosaur.png"
       ],
       "flashcardWords": ["dad", "and", "sad", "dim", "Sid"],
-      "revisionLetters": ["i", "n", "m", "d"],
+      "revisionLetters": ["m", "a", "s", "d"],
       "songImg": "/assets/images/songs/d.png",
       "song": "/assets/songs/d.mp3",
       "songLyrics": [
@@ -191,7 +191,7 @@
         "/assets/images/sounding/glasses.png"
       ],
       "flashcardWords": ["tag", "gag", "sag", "gas", "pig"],
-      "revisionLetters": ["g"],
+      "revisionLetters": ["i", "n", "p", "g"],
       "songImg": "/assets/images/songs/g.png",
       "song": "/assets/songs/g.mp3",
       "songLyrics": [
@@ -213,7 +213,7 @@
         "/assets/images/sounding/swan.png"
       ],
       "flashcardWords": ["got", "on", "not", "top", "dog"],
-      "revisionLetters": ["g", "o"],
+      "revisionLetters": ["i", "n", "p", "g", "o"],
       "songImg": "/assets/images/songs/o.png",
       "song": "/assets/songs/o.mp3",
       "songLyrics": [
@@ -237,7 +237,7 @@
         "/assets/images/sounding/carrot.png"
       ],
       "flashcardWords": ["can", "cot", "cop", "cap", "cod"],
-      "revisionLetters": ["g", "o", "c"],
+      "revisionLetters": ["c"],
       "songImg": "/assets/images/songs/c.png",
       "song": "/assets/songs/c.mp3",
       "songLyrics": [
@@ -263,7 +263,7 @@
         "/assets/images/sounding/rocket.png"
       ],
       "flashcardWords": ["kid", "kit", "Kim", "Ken"],
-      "revisionLetters": ["g", "o", "c", "k"],
+      "revisionLetters": ["c", "k"],
       "songImg": "/assets/images/songs/k.png",
       "song": "/assets/songs/k.mp3",
       "songLyrics": [
@@ -278,7 +278,7 @@
     },
     "e": {
       "pronunciation": "/e/ as in 'bed'",
-      "color": "#CDB4DB",
+      "color": "#BDE0FE",
       "story": "Jess the chef had a pet, a green gecko named Greg. One day, Jess found a net in her shed. She used it to catch bugs for Greg. Greg's favorite snack was a wet, juicy grape. Jess and Greg had fun together, making a perfect pair.",
       "storyImgUrl": "/assets/images/story/e.png",
       "soundingImages": [
@@ -288,7 +288,7 @@
         "/assets/images/sounding/dress.png"
       ],
       "flashcardWords": ["get", "pet", "ten", "net", "pen"],
-      "revisionLetters": ["e"],
+      "revisionLetters": ["f, ff", "e"],
       "songImg": "/assets/images/songs/e.png",
       "song": "/assets/songs/e.mp3",
       "songLyrics": [
@@ -300,7 +300,7 @@
     },
     "u": {
       "pronunciation": "/u/ as in 'plug'",
-      "color": "#FFC8DD",
+      "color": "#CDB4DB",
       "story": "On the big pink bus, I run to find a snug seat. I hug my fluffy teddy bear tightly, holding my shiny cup. The bus hums as it chugs along the bumpy road on the way to school. Up hills and down valleys, we go on a thrilling adventure. What a fun ride!",
       "storyImgUrl": "/assets/images/story/u.png",
       "soundingImages": [
@@ -310,7 +310,7 @@
         "/assets/images/sounding/umbrella.png"
       ],
       "flashcardWords": ["up", "mum", "run", "mug", "cup"],
-      "revisionLetters": ["e", "u"],
+      "revisionLetters": ["c", "k", "u"],
       "songImg": "/assets/images/songs/u.png",
       "song": "/assets/songs/u.mp3",
       "songLyrics": [
@@ -332,7 +332,7 @@
         "/assets/images/sounding/ring.png"
       ],
       "flashcardWords": ["rip", "ram", "rat", "rocket", "carrot"],
-      "revisionLetters": ["e", "u", "r"],
+      "revisionLetters": ["f, ff", "e", "l, ll", "h", "r"],
       "songImg": "/assets/images/songs/r.png",
       "song": "/assets/songs/r.mp3",
       "songLyrics": [
@@ -344,7 +344,7 @@
     },
     "h": {
       "pronunciation": "/h/ as in 'hat'",
-      "color": "#BDE0FE",
+      "color": "#FFC8DD",
       "story": "Harry the horse had a fancy hat. He wore it while trotting, and all his friends said, 'How handsome!' His hat made him the happiest horse in the hot, sunny field. At night, he snuggled in his cozy hut, still wearing his hat, feeling happy and huggable.",
       "storyImgUrl": "/assets/images/story/k.png",
       "soundingImages": [
@@ -354,7 +354,7 @@
         "/assets/images/sounding/rocket.png"
       ],
       "flashcardWords": ["had", "hat", "him", "his", "hot", "hut"],
-      "revisionLetters": ["e", "u", "r", "h"],
+      "revisionLetters": ["f, ff", "e", "l, ll", "h"],
       "songImg": "/assets/images/songs/k.png",
       "song": "/assets/songs/k.mp3",
       "songLyrics": [
@@ -369,7 +369,7 @@
     },
     "b": {
       "pronunciation": "/b/ as in 'ball'",
-      "color": "#CDB4DB",
+      "color": "#FFC8DD",
       "story": "Once upon a time, Benny the boy bounced a big blue ball in his backyard. He giggled as the ball bounced high and low, making a bouncy sound. Benny's bunny, Bobby, hopped beside him, and they both had a blast bouncing the ball together.",
       "storyImgUrl": "/assets/images/story/b.png",
       "soundingImages": [
@@ -379,7 +379,7 @@
         "/assets/images/sounding/bubbles.png"
       ],
       "flashcardWords": ["but", "big", "back", "bed", "bus"],
-      "revisionLetters": ["b"],
+      "revisionLetters": ["c", "k", "u", "b"],
       "songImg": "/assets/images/songs/b.png",
       "song": "/assets/songs/b.mp3",
       "songLyrics": [
@@ -391,7 +391,7 @@
     },
     "ff": {
       "pronunciation": "/f/ as in 'if', /ff/ as in 'off'",
-      "color": "#FFC8DD",
+      "color": "#FFAFCC",
       "story": "Felix the friendly fox played in a field of fluffy flowers. He found five funny fluffy feathers and fluttered them like fairy wings. Felix's furry friend, Fiona, joined in the fun, and together, they had a fantastic, feathery adventure, full of laughter and joy in the sunny forest.",
       "storyImgUrl": "/assets/images/story/f.png",
       "soundingImages": [
@@ -401,7 +401,7 @@
         "/assets/images/sounding/fox.png"
       ],
       "flashcardWords": ["of", "if", "off", "fit", "fog", "puff"],
-      "revisionLetters": ["b", "f, ff"],
+      "revisionLetters": ["f, ff"],
       "songImg": "/assets/images/songs/f.png",
       "song": "/assets/songs/f.mp3",
       "songLyrics": [
@@ -414,7 +414,7 @@
     },
     "ll": {
       "pronunciation": "/l/ as in 'let', /ll/ as in 'bell'",
-      "color": "#FFAFCC",
+      "color": "#CDB4DB",
       "story": "Leila had a lovely, little doll named Lilly. They would laugh and play all day, sharing secrets and cuddles. One sunny day, they decided to have a picnic under a tall, leafy tree. With their colorful blankets and a basket full of delicious treats, they enjoyed a delightful day together, creating memories that would last a lifetime.",
       "storyImgUrl": "/assets/images/story/l.png",
       "soundingImages": [
@@ -424,7 +424,7 @@
         "/assets/images/sounding/leaf.png"
       ],
       "flashcardWords": ["let", "leg", "lot", "bell", "doll"],
-      "revisionLetters": ["b", "f, ff", "l, ll"],
+      "revisionLetters": ["f, ff", "e", "l, ll"],
       "songImg": "/assets/images/songs/l.png",
       "song": "/assets/songs/l.mp3",
       "songLyrics": [
@@ -459,6 +459,29 @@
         "/k/ - /k/ - /k/."
       ]
     },
+    "j": {
+      "pronunciation": "/j/ as in 'jam'",
+      "color": "#BDE0FE",
+      "story": "In the jungle, there lived a large and jolly giraffe named Jake who just loved jam. One sunny day, he met a friendly jaguar named Joey, who shared a jar of delicious strawberry jam. They giggled, danced, and jumped around together, enjoying their jam-filled adventure under the jungle's big, green trees.",
+      "storyImgUrl": "/assets/images/story/j.png",
+      "soundingImages": [
+        "/assets/images/sounding/jam.png",
+        "/assets/images/sounding/goat.png",
+        "/assets/images/sounding/juice.png",
+        "/assets/images/sounding/jigsaw.png"
+      ],
+      "flashcardWords": ["jet", "jam", "jog", "Jan", "jacket"],
+      "revisionLetters": ["f, ff", "e", "l, ll", "h", "j"],
+      "songImg": "/assets/images/songs/j.png",
+      "song": "/assets/songs/j.mp3",
+      "songLyrics": [
+        "Jelly and jam,",
+        "jelly and jam,",
+        "jiggling on the plate.",
+        "Oh, what will I eat it with?",
+        "/j/ - /j/ - /j/ - /j/ - /j/."
+      ]
+    },
     "sh": {
       "pronunciation": "/sh/ as in 'ship'",
       "color": "#CDB4DB",
@@ -478,7 +501,7 @@
         "Hush! Hush! Hush!",
         "Don't make a sound.",
         "Be as quiet as you can be.",
-        ".The baby's asleep and I'm tired out.",
+        "The baby's asleep and I'm tired out.",
         "Sh! /sh/ - /sh/ - /sh/ - /sh/!"
       ]
     },
@@ -539,7 +562,7 @@
         "/assets/images/sounding/tiger.png"
       ],
       "flashcardWords": ["pen", "pat"],
-      "revisionLetters": ["s", "a", "t", "p"],
+      "revisionLetters": ["sh", "th", "ch", "qu"],
       "songImg": "/assets/images/songs/p.png",
       "song": "/assets/songs/p.mp3",
       "songLyrics": [
@@ -562,7 +585,7 @@
         "/assets/images/sounding/tiger.png"
       ],
       "flashcardWords": ["pen", "pat"],
-      "revisionLetters": ["s", "a", "t", "p"],
+      "revisionLetters": ["sh", "th", "ch", "qu", "ng"],
       "songImg": "/assets/images/songs/p.png",
       "song": "/assets/songs/p.mp3",
       "songLyrics": [
@@ -585,30 +608,7 @@
         "/assets/images/sounding/tiger.png"
       ],
       "flashcardWords": ["pen", "pat"],
-      "revisionLetters": ["s", "a", "t", "p"],
-      "songImg": "/assets/images/songs/p.png",
-      "song": "/assets/songs/p.mp3",
-      "songLyrics": [
-        "Puff out the candles on the pink pig cake.",
-        "/p/ - /p/ - /p/,",
-        "/p/ - /p/ - /p/.",
-        "Puff out the candles on the pink pig cake.",
-        "Puff! Puff! Puff!"
-      ]
-    },
-    "ck": {
-      "pronunciation": "/p/ as in 'pet'",
-      "color": "#FFC8DD",
-      "story": "A boy is having a birthday party. He opens his presents and plays some party games. Then he puffs out the candles on his cake. They are trick candles and keep relighting. Everyone tries to puff out the candles, going, /p, p, p, p/.",
-      "storyImgUrl": "/assets/images/story/p.png",
-      "soundingImages": [
-        "/assets/images/sounding/pie.png",
-        "/assets/images/sounding/parrot.png",
-        "/assets/images/sounding/pencil.png",
-        "/assets/images/sounding/tiger.png"
-      ],
-      "flashcardWords": ["pen", "pat"],
-      "revisionLetters": ["s", "a", "t", "p"],
+      "revisionLetters": ["sh", "th", "ch", "qu", "ng", "nk"],
       "songImg": "/assets/images/songs/p.png",
       "song": "/assets/songs/p.mp3",
       "songLyrics": [
