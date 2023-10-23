@@ -502,26 +502,37 @@
       ]
     },
     "w": {
-      "pronunciation": "/t/ as in 'tip'",
-      "color": "#CDB4DB",
-      "story": "Some children go to a tennis match. Each time the racket hits the ball, it makes a /t/ noise. The game is very exciting. The people in the crowd turn their heads from side to side, watching the ball. The children go home and play tennis too, /t, t, t, t/.",
-      "storyImgUrl": "/assets/images/story/t.png",
+      "pronunciation": "/w/ as in 'web'",
+      "color": "#FFAFCC",
+      "story": "Wally the walrus wore warm, woolly socks while watching the waves at the windy beach. He wished for seashells and built a wiggly sandworm. Suddenly, a wise whale swam by, waving its fin. 'Welcome, Wally!' the whale said. Wally waved back and felt wonderfully welcome at the wavy shore.",
+      "storyImgUrl": "/assets/images/story/w.png",
       "soundingImages": [
-        "/assets/images/sounding/tennis.png",
-        "/assets/images/sounding/sun.png",
-        "/assets/images/sounding/tent.png",
-        "/assets/images/sounding/tiger.png"
+        "/assets/images/sounding/web.png",
+        "/assets/images/sounding/wig.png",
+        "/assets/images/sounding/cookie.png",
+        "/assets/images/sounding/wet.png"
       ],
-      "flashcardWords": ["tap"],
-      "revisionLetters": ["m", "a", "s", "d", "t"],
-      "songImg": "/assets/images/songs/t.png",
-      "song": "/assets/songs/t.mp3",
+      "flashcardWords": [
+        "wig",
+        "web",
+        "wok",
+        "win",
+        "wet",
+        "wag",
+        "Wed",
+        "wit"
+      ],
+      "revisionLetters": ["v", "y", "w"],
+      "songImg": "/assets/images/songs/w.png",
+      "song": "/assets/songs/w.mp3",
       "songLyrics": [
-        "When I watch the tennis game,",
-        "/t/ - /t/ - /t/,",
-        "/t/ - /t/ - /t/...",
-        "...when I watch the tennis game,",
-        "my head goes back and forth."
+        "I see the clouds moving,",
+        "/w/ - /w/ - /w/.",
+        "I see the kites flying,",
+        "/w/ - /w/ - /w/.",
+        "I see the trees bending,",
+        "/w/ - /w/ - /w/.",
+        "The wind is blowing strong!"
       ]
     },
     "z": {
